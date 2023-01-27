@@ -10,3 +10,5 @@
 ![2023-01-27_18-30-16](https://user-images.githubusercontent.com/92103693/215124395-64a9adb4-7dae-49aa-8f7e-cb988411934a.png)
 ## 4. Отчет по заказам
 ![2023-01-27_18-33-49](https://user-images.githubusercontent.com/92103693/215125197-22c61745-0257-47be-a957-1eacfe688801.png)
+## 5. Показатели продаж
+![2023-01-27_18-32-31](https://user-images.githubusercontent.com/92103693/215125308-475a73a6-fec6-4baf-bb92-5bc035dbd876.png)
