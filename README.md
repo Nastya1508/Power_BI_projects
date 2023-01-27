@@ -1,5 +1,4 @@
 # Power_BI_projects
-Проекты в Power BI
 ## 1. Анализ продаж, прибыли и остатков 
 ![2023-01-27_18-23-27](https://user-images.githubusercontent.com/92103693/215122913-5344bfc4-c867-4b1a-a088-0811f88ca2b0.png)
 ![2023-01-27_18-23-58](https://user-images.githubusercontent.com/92103693/215123039-fe8abe72-b85d-4022-836b-87cfca48a527.png)
